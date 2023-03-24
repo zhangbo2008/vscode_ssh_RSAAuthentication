@@ -1,5 +1,5 @@
 # vscode_ssh_RSAAuthentication
-
+```
 vscode ssh免密:
 	Host 119.29xxxxxx
 	  HostName 119.29xxxxxx
@@ -12,3 +12,4 @@ vscode ssh免密:
 		 cat id_rsa.pub >> authorized_keys
 	这两个配上即可.
 	这两个配上即可.
+```
